@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Course App</string>
+    <string name="app_universe">Hello Universe</string>
+    <string name="app_world">Hello World</string>
+    <string name="btn_universe">Downgrade App</string>
+    <string name="btn_world">Upgrade App</string>
+    <string name="smiley_des">This is smiley image</string>
+    <string name="checkbox_text_universe">Hello Universe</string>
+    <string name="checkbox_text_world">Hello World</string>
+    <string name="img_universe_des">This is an image of the galaxy</string>
+</resources>
